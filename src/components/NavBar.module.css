@@ -1,0 +1,16 @@
+.Container {
+	display: flex;
+	margin: 2px;
+	justify-content: center;
+	height: 45px;
+    position: absolute;
+    right: 2px;
+}
+.navigation {
+	display: flex;
+	align-items: center;
+	text-align: center;
+	margin-left: 10px;
+	text-decoration: none;
+    color: black;
+}

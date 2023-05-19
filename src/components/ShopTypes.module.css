@@ -1,0 +1,19 @@
+.heading {
+	font-size: 24px;
+	color: #363636;
+	margin-left: 15px;
+	margin-right: 7px;
+	font-family: SourceSansPro-Semibold;
+}
+.container{
+    text-align: center;
+    margin: 10px;
+}
+.cardContainer {
+	float: left;
+	width: 33.333333%;
+}
+.cardContainer:hover{
+	scale: 1.1;
+	transition: all ease-in-out;
+}

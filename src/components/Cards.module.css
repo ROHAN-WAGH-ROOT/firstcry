@@ -1,0 +1,35 @@
+.container {
+  display: block;
+  margin: 5px;
+  align-items: center;
+  text-align: center;
+  width: 90%;
+  justify-content: center;
+  cursor: pointer;
+  background-color: white;
+  border-radius: 10px;
+}
+.container:hover {
+  box-shadow: 0 3px 10px rgba(0, 0, 0, 0.511);
+}
+
+
+.image {
+  width: 100%;
+}
+.endson {
+}
+.title {
+  text-align: start;
+  margin: 10px 15px 0px 15px;
+}
+.category {
+  text-align: start;
+  margin: 2px 15px;
+  opacity: 0.5;
+}
+.status {
+  text-align: end;
+  color: red;
+  margin: 10px 10px 20px 10px;
+}

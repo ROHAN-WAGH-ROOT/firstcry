@@ -1,0 +1,18 @@
+.Container {
+	display: block;
+}
+.Header {
+	display: flex;
+	background-color: white;
+}
+.HeaderLogo {
+	margin: 10px;
+}
+.SearchBar {
+	width: 30%;
+	justify-content: start;
+	margin: 10px;
+}
+.img {
+	width: 100%;
+}
